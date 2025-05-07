@@ -1,7 +1,3 @@
-# 🌾 TRIGOnometria
-
-<img src="./img/readme-1.png" style="width: 600px;">
-
 ## Sobre o Projeto
 
 TRIGOnometria é um projeto especial criado para celebrar 3 anos de casamento (Bodas de Trigo). 
